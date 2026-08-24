@@ -24,5 +24,3 @@ python engine.py
 ## ⚖️ Legal & Intellectual Property
 This framework is the proprietary property of **TheFuturistsStrategyCone**. 
 All rights reserved © 2026. Educational forking and personal code analysis are permitted under GitHub Terms of Service, but any commercial exploitation, corporate deployment, or re-branding is strictly prohibited without explicit written consent.
-
-
