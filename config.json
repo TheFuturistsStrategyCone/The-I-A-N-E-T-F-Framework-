@@ -1,0 +1,25 @@
+{
+  "framework": "I-A-N-E-T-F v3.0",
+  "agent_id": "finance_agent_01",
+  "intent_validation": {
+    "allowed_objectives": ["reconciliation", "anomaly_detection"],
+    "strict_mode": true
+  },
+  "authority_loop": {
+    "max_financial_limit_usd": 5000,
+    "requires_human_approval_above_usd": 1000,
+    "approver_role": "Chief_Internal_Auditor"
+  },
+  "network_enforcement": {
+    "allowed_api_endpoints": ["https://internal-bank.com"],
+    "block_external_outbound": true
+  },
+  "traceability": {
+    "log_vault": "cryptographic_ledger_secure_hash",
+    "tamper_proof_logging": "enabled"
+  },
+  "forensics_kill_switch": {
+    "auto_revoke_on_violation": true,
+    "rollback_state": "last_known_safe_state"
+  }
+}
