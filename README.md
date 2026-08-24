@@ -1,4 +1,4 @@
-# The I-A-N-E-T-F Framework™ v3.0
+# The I-A-N-E-T-F Cone Framework™ 
 
 An open-source runtime enforcement and continuous audit framework for Agentic AI ecosystems. 
 This repository provides the programmable guardrails to ensure autonomous AI agents operate strictly within designated operational, structural, and legal boundaries.
