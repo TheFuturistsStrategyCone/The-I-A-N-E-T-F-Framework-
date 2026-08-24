@@ -15,4 +15,8 @@ This repository provides the programmable guardrails to ensure autonomous AI age
 ```bash
 pip install ianfet-framework
 ```
+---
+## ⚖️ Legal & Intellectual Property
+This framework is proprietary property. All rights reserved © 2026 **TheFuturistsStrategyCone**. 
+Educational forking is permitted, but commercial exploitation or re-branding is strictly prohibited.
 
