@@ -15,7 +15,7 @@ This repository provides the programmable guardrails to ensure autonomous AI age
 ## 🚀 Quick Installation & Setup
 
 ```text
-git clone https://github.comTheFuturistsStrategyCone/The-I-A-N-E-T-F-Framework-.git
+git clone https://github.com/TheFuturistsStrategyCone/The-I-A-N-E-T-F-Framework-.git
 cd The-I-A-N-E-T-F-Framework-
 python engine.py
 ```
