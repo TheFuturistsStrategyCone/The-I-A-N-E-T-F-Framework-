@@ -13,7 +13,6 @@ This repository provides the programmable guardrails to ensure autonomous AI age
 - **F - Forensics:** Real-time rollback and automated authority revocation (The Kill-Switch).
 
 ## 🚀 Quick Installation & Setup
-
 ```bash
 # Clone the repository locally to access the engine
 git clone https://github.com
