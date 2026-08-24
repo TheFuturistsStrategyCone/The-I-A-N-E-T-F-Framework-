@@ -14,8 +14,7 @@ This repository provides the programmable guardrails to ensure autonomous AI age
 
 ## 🚀 Quick Installation & Setup
 
-```bash
-# Clone the repository locally to access the engine
+```text
 git clone https://github.com
 cd The-I-A-N-E-T-F-Framework-
 python engine.py
